@@ -1,0 +1,39 @@
+.button{
+  z-index: 999;
+  position: absolute;
+  top: 5px;
+  height: 20px;
+  width: 11%;
+  background-color: #384659;
+  box-shadow: 0 0 0 1px #EDEDED;
+  color: white;
+  font-weight: bold;
+  height: 25px;
+  padding-top: 5px;
+  text-align: center;
+}
+.return{
+  right: 5px;
+}
+.inventory{
+  left: 60px;
+}
+.divHeader{
+  width: 100%;
+  background-color: #607799;
+  padding: 5px 0;
+  height: 30px;
+  margin-bottom: 5px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+  display: inline-block;
+}
+.systemHead{
+  background-color: #3f516b;
+  margin: 0 0 10px 0;
+  padding: 10px auto;
+  position: absolute;
+  top: 0;
+}
